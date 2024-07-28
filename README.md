@@ -1,7 +1,9 @@
 # FOSS_Hackathon_2024_ConversoAI
+![image](https://github.com/user-attachments/assets/d5ef0da1-3613-40c8-8e39-d1ac1c1bf9d5)
 
 
-### Problem Statement for ConversoAI
+
+## Problem Statement for ConversoAI
 
 In an era where digital interactions dominate the commercial landscape, businesses face the challenge of providing timely, efficient, and personalized customer service. Traditional customer support systems often struggle with scalability, high operational costs, and inconsistent quality of service, leading to customer frustration and dissatisfaction. Moreover, the increasing demand for round-the-clock support and immediate responses necessitates a solution that can handle diverse customer inquiries seamlessly.
 
@@ -46,3 +48,7 @@ This project serves as an excellent introduction to chatbot development and GUI 
 
 ## Author
 ### Team Varadha
+##### Virupakshi
+##### Nithin A B
+##### Akash Aparaj 
+##### Chitra T N
